@@ -1,5 +1,29 @@
-Chisel / FIRRTL Diagramming Project
+OLD Chisel / FIRRTL Diagramming Project
 =======================
+
+---
+---
+
+WARNING: This project has been SUPERSEDED by [/freechipsproject/diagrammer](https://github.com/freechipsproject/diagrammer).
+
+This older repo is no longer supported.
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
 
 This project can generate GraphViz dot files and from those svg files representing Chisel generated Firrtl circuits.
 It is also an example of a creating a Firrtl Transformation.  This transformation can be applied through the 
